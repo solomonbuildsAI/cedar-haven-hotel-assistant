@@ -69,3 +69,29 @@ Project Purpose
 This project demonstrates how AI and workflow automation can help hospitality businesses improve guest communication, reduce repetitive administrative work, and respond more quickly to important guest issues.
 
 Built as part of my journey into AI automation and workflow development.
+
+
+## System Architecture
+
+The diagram below illustrates how the hotel reception assistant processes guest messages and handles booking enquiries, urgent issues, and workflow errors.
+
+```mermaid
+flowchart TD
+    A[Guest sends Telegram message] --> B[n8n Workflow]
+    B --> C[Retrieve Hotel Information]
+    C --> D[Google Gemini AI]
+    D --> E[Process AI Response]
+
+    E --> F{Request Type}
+
+    F -->|General Enquiry| G[Reply to Guest]
+    F -->|New Booking| H[Save Booking to Google Sheets]
+    F -->|Existing Booking| I[Update Booking in Google Sheets]
+    F -->|Urgent Issue| J[Send Staff Alert]
+
+    H --> G
+    I --> G
+
+    K[Workflow Error] --> L[Error Monitoring Workflow]
+    L --> M[Send Error Alert via Telegram]
+```
