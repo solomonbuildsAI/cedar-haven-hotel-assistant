@@ -74,6 +74,15 @@ Watch the Cedar Haven Hotel AI Reception Assistant in action:
 [Watch the full demo on YouTube](https://youtube.com/shorts/VTcKdXm61Sc)
 
 
+## Service Proposal
+
+Interested in bringing AI automation to your hotel?
+
+Read my AI Hotel Reception & Guest Support Automation proposal:
+
+[View Service Proposal (PDF)](https://drive.google.com/file/d/1ZXexF4Ioj5E93VoNamGfYNeioNriwrYv/view?usp=drivesdk)
+
+
 Project Purpose
 
 This project demonstrates how AI and workflow automation can help hospitality businesses improve guest communication, reduce repetitive administrative work, and respond more quickly to important guest issues.
