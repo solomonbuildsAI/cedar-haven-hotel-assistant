@@ -64,6 +64,16 @@ Future Improvements
 * Improved booking management and confirmation.
 * Advanced reporting and analytics.
 
+
+## Project Demo
+
+Watch the Cedar Haven Hotel AI Reception Assistant in action:
+
+[![Watch the Project Demo](https://img.youtube.com/vi/VTcKdXm61Sc/0.jpg)](https://youtube.com/shorts/VTcKdXm61Sc)
+
+[Watch the full demo on YouTube](https://youtube.com/shorts/VTcKdXm61Sc)
+
+
 Project Purpose
 
 This project demonstrates how AI and workflow automation can help hospitality businesses improve guest communication, reduce repetitive administrative work, and respond more quickly to important guest issues.
